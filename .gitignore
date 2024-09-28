@@ -1,0 +1,16 @@
+# Ignorar a pasta do ambiente virtual
+AT_DR2/
+
+# Ignorar bytecode do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar configurações do VSCode
+.vscode/
+
+# Ignorar checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar arquivos do sistema
+.DS_Store
