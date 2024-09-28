@@ -1,6 +1,11 @@
 # Ignorar a pasta do ambiente virtual
 AT_DR2/
 
+# Ignorar arquivos e pastas relacionados ao ambiente virtual
+Lib/
+Scripts/
+pyvenv.cfg
+
 # Ignorar bytecode do Python
 __pycache__/
 *.pyc
